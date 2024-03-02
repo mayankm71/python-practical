@@ -1,0 +1,9 @@
+pyhon is a dynamically type language which means that the type of a variable is determined at run time.
+
+features of python:
+1. syntax is plain and straightforward
+2.for learning it is easy and to use
+3.objected orinted
+4. interpreted langauage
+5.it has extensive standard library
+high level language
